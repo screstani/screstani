@@ -27,6 +27,8 @@ My passions are: hiking, reading and astronomy.
 
 📫 Reach me at: **sayonara.crestani@gmail.com**
 
+**https://www.linkedin.com/in/sayonaracrestani/**
+
 <br>
 <br>
 
