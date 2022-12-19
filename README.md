@@ -6,7 +6,7 @@
 
 I am from Curitiba, Brazil and currently living in Pesaro, Italy. 
 <br>
-I have a degree in History and Public Administration. I'm a very curious person! After working for 12 years with contracts and biddings in the public administration, I made a career transition 6 months ago and I've started working as web developer, loving this new world so far!
+I have a background in History and Public Administration. I'm a very curious person! After working for 9 years with contracts and biddings in the public administration, I made a career transition and I've started working as web developer, and I'm loving it!
 <br>
 My passions are: hiking, reading and astronomy. 
 
@@ -14,13 +14,13 @@ My passions are: hiking, reading and astronomy.
 
 ## Languages I know
 
-:technologist: I work with **HTML, CSS, Javascript and Bootstrap**
+:technologist: I work with **HTML, CSS, Bootstrap, JavaScript and Node.js**
 
 <br>
 
 ## Languages I'm learning
 
-:books: I’m currently learning **Node, React and Java**
+:books: I’m currently learning **React and Java**
 
 <br>
 <br>
