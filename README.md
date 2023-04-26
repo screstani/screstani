@@ -4,9 +4,11 @@
 
 ### Welcome to my Github page!
 
-I am from Curitiba, Brazil and currently living in Pesaro, Italy. 
+I am from Curitiba, Brazil and currently living in Rome, Italy. 
 <br>
-I have a background in History and Public Administration. I'm a very curious person! After working for 9 years with contracts and biddings in the public administration, I made a career transition and I've started working as web developer, and I'm loving it!
+I have a background in History and Public Administration. I'm a very curious person! 
+After working for almost 10 years with contracts and biddings in the brazilian public administration,
+I made a career transition and I've started working as a full-stack developer, and I'm loving it!
 <br>
 My passions are: hiking, reading and astronomy. 
 
@@ -14,13 +16,13 @@ My passions are: hiking, reading and astronomy.
 
 ## Languages I know
 
-:technologist: I work with **HTML, CSS, Bootstrap, JavaScript and Node.js**
+:technologist: I work with **HTML, CSS, Bootstrap, JavaScript, React and Node.js**
 
 <br>
 
 ## Languages I'm learning
 
-:books: I’m currently learning **React and Java**
+:books: I’m currently learning **ReactNative and Java**
 
 <br>
 <br>
