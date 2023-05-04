@@ -4,12 +4,8 @@
 
 ### Welcome to my Github page!
 
-I am from Curitiba, Brazil and currently living in Rome, Italy. 
-<br>
-I have a background in History and Public Administration. I'm a very curious person! 
-After working for almost 10 years with contracts and biddings in the brazilian public administration,
-I made a career transition and I've started working as a full-stack developer, and I'm loving it!
-<br>
+I'm from Curitiba, a beautiful city in Brazil, but currently, I'm living in the eternal city of Rome, Italy. It's an incredible place to be, with so much history, culture, and delicious food!<br>
+I have a diverse background in History and Public Administration, which has given me a unique perspective on the world. However, after working in the Brazilian public administration for several years, I realized that I was looking for a new challenge. That's when I decided to make a career transition and become a full-stack developer. It's been two years since then, and I have to say, I'm really enjoying it! I love the creative problem-solving that comes with being a developer, and I'm always looking for new ways to improve my skills. <br>
 My passions are: hiking, reading and astronomy. 
 
 <br>
