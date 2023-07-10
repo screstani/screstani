@@ -18,7 +18,7 @@ My passions are: hiking, reading and astronomy.
 
 ## Languages I'm learning
 
-:books: I’m currently learning **ReactNative and Java**
+:books: I’m currently learning **Typescript and React Native**
 
 <br>
 <br>
